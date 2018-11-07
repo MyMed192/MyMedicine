@@ -22,6 +22,7 @@ public class MedicineFragment extends Fragment {
     public MedicineFragment() {
         // Required empty public constructor
         // dsadasda
+        //
     }
 
 
