@@ -5,9 +5,11 @@
     android:layout_height="match_parent"
     tools:context=".MedicineFragment">
 
-    <ListView
-        android:id="@+id/medicinesList"
+    <ExpandableListView
+        android:id="@+id/simpleExpandableListView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></ListView>
+        android:layout_height="fill_parent"
+        android:divider="#000"
+        android:dividerHeight="1dp" />
 
 </FrameLayout>
