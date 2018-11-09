@@ -7,7 +7,8 @@ public class Medicine {
     public Medicine(String name, String date) {
         Name = name;
         Date = date;
-
+//aasdfasdf
+//        asdfasdf
     }
 
     public String getName() {
